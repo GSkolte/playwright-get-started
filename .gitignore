@@ -6,3 +6,18 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
